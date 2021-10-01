@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#42a147</color>
+    <color name="colorPrimaryDark">#42a147</color>
+    <color name="colorAccent">#ffa827</color>
+    <color name="yellow">#ffa827</color>
+    <color name="yellow2">#f0b405</color>
+
+    <color name="white">#ffffff</color>
+    <color name="bg_splash">#e7e6e6</color>
+    <color name="backgroundTab2">#dadada</color>
+    <color name="backgroundTab">#ecf0f1</color>
+    <color name="background">#CCCACA</color>
+    <color name="text_standar">#3F3E3E</color>
+    <color name="colorText">#364950</color>
+    <color name="colorTextWhite">#ffffff</color>
+    <color name="notification_color">#0288d1</color>
+    <color name="textColorPrimary">#364950</color>
+    <color name="textColorSecondary">#757575</color>
+    <color name="navfun">#FF6666</color>
+    <color name="icon">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="blackThema">#262626</color>
+    <color name="blueThema">#348AC7</color>
+    <color name="blueDarkThema">#7276C0</color>
+    <color name="redThema">#F45C43</color>
+    <color name="red">#FF586C</color>
+    <color name="redDarkThema">#FF586C</color>
+    <color name="greenThema">#2CD68E</color>
+    <color name="greenDarkThema">#2CD68E</color>
+    <color name="defaultThema">#2c3e50</color>
+    <color name="green">#42a147</color>
+</resources>
