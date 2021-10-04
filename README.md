@@ -84,3 +84,5 @@ Fitur yang harus ada pada aplikasi :
    
    - Menerapkan instrumentation test untuk memastikan fitur-fitur yang ada berjalan dengan semestinya.
    - Jika pada aplikasi terdapat proses ***asynchronous***, maka Anda wajib menerapkan **Idle Resources**.
+
+## THANKS 
