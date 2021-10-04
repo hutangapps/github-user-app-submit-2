@@ -86,3 +86,7 @@ Fitur yang harus ada pada aplikasi :
    - Jika pada aplikasi terdapat proses ***asynchronous***, maka Anda wajib menerapkan **Idle Resources**.
 
 ## THANKS ^_^ 
+
+Project dibuat menggunakan Android Studio
+
+Android Studio adalah Integrated Development Enviroment untuk sistem operasi Android, yang dibangun di atas perangkat lunak JetBrains IntelliJ IDEA dan didesain khusus untuk pengembangan Android.
