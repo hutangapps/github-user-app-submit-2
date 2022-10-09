@@ -1,4 +1,4 @@
-# Dicoding - Belajar Android Jetpack Pro
+# Dicoding Submition - Belajar Android Jetpack Pro
 
 
 ### Submission 1 Architecture Component
