@@ -1,7 +1,5 @@
 # Dicoding Submition - Belajar Android Jetpack Pro
 
-Version 0.01
-
 ### Submission 1 Architecture Component
 
 #### Kriteria
